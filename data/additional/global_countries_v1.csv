@@ -1,4 +1,4 @@
-countryName,alpha3,countryCode,region,subRegion,regionCode,subRegionCode
+country,alpha3,countryCode,region,subRegion,regionCode,subRegionCode
 Afghanistan,AFG,4,Asia,Southern Asia,142,34
 Åland Islands,ALA,248,Europe,Northern Europe,150,154
 Albania,ALB,8,Europe,Southern Europe,150,39
